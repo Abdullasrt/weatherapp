@@ -1,0 +1,74 @@
+body {
+    list-style: none;
+    background-color: #e29f9f;
+    background-image: url('./img/wp7033716-cloudy-weather-wallpapers.jpg');
+    background-size: cover;
+
+}
+
+#weather-container {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color:none;
+    border-radius: 8px;
+    box-shadow: 0px 0px 19px 0px #060809;}
+
+
+#result {
+    margin-top: 20px;
+}
+#img{
+    height: 50%;
+    width: 50%;
+    margin-top: 5px;
+}
+#city{
+    font-size: larger;
+    font-weight: bolder;
+    background-color:  rgba(128, 128, 128, 0);
+    border: none;
+}
+#temp{
+
+    font-size: xx-large;
+    font-weight:bolder;
+    background-color: rgba(128, 128, 128, 0);
+    background: none;
+
+}
+#result{
+    background-color:  rgba(128, 128, 128, 0);
+    background: none;
+
+}
+#gray{
+    background-color: none;
+}
+#full{
+    background-color: rgba(128, 128, 128, 0);
+    background: none;
+
+}
+#cloud{
+    background-color: rgba(128, 128, 128, 0);
+    border: none;
+
+}
+#lat{
+    background-color:  rgba(128, 128, 128, 0);
+    border: none;
+}
+#lati{
+    background-color:  rgba(128, 128, 128, 0);
+    border: none;
+}
+#cor{
+    background-color:  rgba(128, 128, 128, 0);
+    border: none;
+}
+#lon{
+    background-color:  rgba(128, 128, 128, 0);
+    border: none;
+   
+}
